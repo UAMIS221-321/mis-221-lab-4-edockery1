@@ -1,0 +1,30 @@
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.csproj.AssemblyReference.cache
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.AssemblyInfoInputs.cache
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.AssemblyInfo.cs
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.csproj.CoreCompileInputs.cache
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.deps.json
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.runtimeconfig.json
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.dll
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.pdb
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.dll
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/refint/mis-221-lab-4-edockery1.dll
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.pdb
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.genruntimeconfig.cache
+/Users/elliedockery/Desktop/nerd alert/mis-221-lab-4-edockery1/obj/Debug/net7.0/ref/mis-221-lab-4-edockery1.dll
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.csproj.AssemblyReference.cache
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.AssemblyInfoInputs.cache
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.AssemblyInfo.cs
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.csproj.CoreCompileInputs.cache
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.dll
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/refint/mis-221-lab-4-edockery1.dll
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.pdb
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.deps.json
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.runtimeconfig.json
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.dll
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/bin/Debug/net7.0/mis-221-lab-4-edockery1.pdb
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/mis-221-lab-4-edockery1.genruntimeconfig.cache
+/Users/elliedockery/Desktop/nerdalert/mis-221-lab-4-edockery1/obj/Debug/net7.0/ref/mis-221-lab-4-edockery1.dll
